@@ -1,6 +1,6 @@
 COBLA
 
-Constrained Optimization based Low-rank Approximation of Deep Neural Networks (ECCV 2018)
+Constrained Optimization Based Low-rank Approximation of Deep Neural Networks (ECCV 2018)
 
 Chong Li and C.J. Richard Shi
 
@@ -11,9 +11,9 @@ This work is supported by an Intel/Semiconductor Research Corporation Ph.D. Fell
 ```
 @inproceedings{chongli_cobla
   author       = {Li, Chong and Shi, C.J. Richard},
-  title        = {Constrained Optimization based Low-rank Approximation of Deep Neural Networks},
-  date         = {2018},
+  title        = {Constrained Optimization Based Low-rank Approximation of Deep Neural Networks},
   booktitle    = {European Conference on Computer Vision},
+  date         = {2018},
   location     = {Munich},
 }
 ```
