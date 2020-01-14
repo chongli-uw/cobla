@@ -1,9 +1,10 @@
 COBLA
 
-Constrained Optimization Based Low-rank Approximation of Deep Neural Networks (ECCV 2018)
-http://openaccess.thecvf.com/content_ECCV_2018/papers/Chong_Li_Constrained_Optimization_Based_ECCV_2018_paper.pdf
+[Constrained Optimization Based Low-rank Approximation of Deep Neural Networks (ECCV 2018)](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chong_Li_Constrained_Optimization_Based_ECCV_2018_paper.pdf)
+
 
 Chong Li and C.J. Richard Shi
+chongli@uw.edu
 
 Univesrity of Washington
 
