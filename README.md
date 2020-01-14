@@ -17,3 +17,7 @@ This work is supported by an Intel/Semiconductor Research Corporation Ph.D. Fell
   location     = {Munich},
 }
 ```
+
+Please see main mask_main.m
+
+sqplab is credit to https://who.rocq.inria.fr/Jean-Charles.Gilbert/modulopt/optimization-routines/sqplab/sqplab.html
