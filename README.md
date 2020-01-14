@@ -1,6 +1,7 @@
 COBLA
 
 Constrained Optimization Based Low-rank Approximation of Deep Neural Networks (ECCV 2018)
+http://openaccess.thecvf.com/content_ECCV_2018/papers/Chong_Li_Constrained_Optimization_Based_ECCV_2018_paper.pdf
 
 Chong Li and C.J. Richard Shi
 
@@ -18,6 +19,6 @@ This work is supported by an Intel/Semiconductor Research Corporation Ph.D. Fell
 }
 ```
 
-Please see main mask_main.m
+Please see main mask_main.py
 
 Please download sqplab from https://who.rocq.inria.fr/Jean-Charles.Gilbert/modulopt/optimization-routines/sqplab/sqplab.html
