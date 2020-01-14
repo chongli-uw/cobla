@@ -20,4 +20,4 @@ This work is supported by an Intel/Semiconductor Research Corporation Ph.D. Fell
 
 Please see main mask_main.m
 
-sqplab is credit to https://who.rocq.inria.fr/Jean-Charles.Gilbert/modulopt/optimization-routines/sqplab/sqplab.html
+Please download sqplab from https://who.rocq.inria.fr/Jean-Charles.Gilbert/modulopt/optimization-routines/sqplab/sqplab.html
