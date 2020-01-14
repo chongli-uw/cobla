@@ -1,0 +1,7 @@
+alexnet_bn: original alexnet as in github, plus batch normalization
+
+the following 3 files need to be copied to alexnet_rank.py to use
+alexnet_svd_rank: original alexnet, with conv layers decomposed using Tai 2016's svd decomposition
+alexnet_hybrid_1_rank.py: two paths, one for original conv layers, another for decomposed conv layer, with randommux select between them
+alexnet_hybrid_rank.py: same as before, with different connectivity in the two paths
+
